@@ -9,8 +9,9 @@ In the Netflix problem, we have two entities, the customers and the movies. Cust
 The Technical Solution
 ===
 Here we come up with some mathematics. 
-|Notation||
-|--|--|
+
+|Notations| |
+|---|---|
 |`m`|the number of customers|
 |`n`|the number of movies|
 |`k`|the number of hidden features that we assigned to movies|
