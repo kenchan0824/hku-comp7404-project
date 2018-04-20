@@ -36,7 +36,7 @@ To run the demonstration, please follow these steps:
 
 List of Members
 ===
-Chan, Kin Wah
-Choi, Chun Kit
-Lee, Wai Yin
-Wong, Cheuk Lam
+- Chan, Kin Wah
+- Choi, Chun Kit
+- Lee, Wai Yin
+- Wong, Cheuk Lam
