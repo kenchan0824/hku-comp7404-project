@@ -1,9 +1,9 @@
 Subject
 ===
-HKU COMP7404(2018)
-Machine Learning Group Project
-Team C
-Collaborative Filtering (Latent Factors Method)
+- HKU COMP7404(2018)
+- Machine Learning Group Project
+- Team C
+- Collaborative Filtering (Latent Factors Method)
 
 List of Files
 ===
