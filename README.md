@@ -11,12 +11,12 @@ List of Files
 |---|---|
 |demonstration.ipynb|Jupyter Notebook for the demonstration|  
 |ex8_movies.mat|The data required by the demontration|
-|movie_ids.txt|The movies name required by the demontration|
+|movie_ids.txt|The movie names required by the demontration|
 |movieList.txt|Shortlist the 100 movies for your reference| 
 |presentation.pptx|Pointpoint for the presentation|
 |proposal.md|The original project proposal|
 |README.md|This file| 
-|scripts.docx|The scripts for a video the explain the demonstration|
+|scripts.docx|The scripts for a video that explains the demonstration|
 
 System Requirements
 ===
@@ -32,7 +32,7 @@ To run the demonstration, please follow these steps:
 2. Start the Jupyter Notebook.
 3. Open the notebook `demonstration.ipynb`.
 4. Make sure `movie_ids.txt` and `ex8_movies.mat` are at the same directory.
-5. Selecth the menu `Kernel -> Restart & Run All` to run the notebook.
+5. Select the menu `Kernel -> Restart & Run All` to run the notebook.
 
 List of Members
 ===
